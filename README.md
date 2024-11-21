@@ -10,4 +10,4 @@
 
 ## 料理一覧
 
-- [ローストビーフ](./src/roast_beef.md)
+- [ローストビーフ](./src/roast_beef/README.md)
